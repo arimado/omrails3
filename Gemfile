@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'jquery-rails'
 gem 'rails', '3.2.12'
 gem 'devise', '2.1.2'
+gem 'simple_form'
 
 group :production do 
 	gem 'pg'
